@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 * 🧹 [TraceGroomer](https://github.com/cbib/TraceGroomer)
 
  
-📦 Also available at PyPI: [CBIB on PyPI](https://pypi.org/user/CBIB/)
+📦 Also available at PyPI: [CBiB on PyPI](https://pypi.org/user/CBIB/)
